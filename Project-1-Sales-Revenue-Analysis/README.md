@@ -39,7 +39,7 @@ Identified key business questions such as:
 - Built Tableau dashboards for revenue trends and comparisons
 
 ## Key Insights
-- Online sales performed better than offline
+- Offline slightly outperformed online, but online remains strong
 - Certain products and regions contributed most of the revenue
 
 ## Business Recommendations

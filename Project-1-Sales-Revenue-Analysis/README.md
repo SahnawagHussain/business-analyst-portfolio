@@ -39,11 +39,16 @@ Identified key business questions such as:
 - Built Tableau dashboards for revenue trends and comparisons
 
 ## Key Insights
-- Offline slightly outperformed online, but online remains strong
-- Certain products and regions contributed most of the revenue
+- Few customers bring most revenue
+- Premium & Enterprise customers are more valuable
+- Repeat customers generate more money
+- Good support = more repeat purchases
+- Some cities retain customers better
 
 ## Business Recommendations
 - Focus marketing on high-performing products
-- Strengthen online sales strategy
+- Loyalty programs
+- Better customer support
+- Targeted campaigns
 
 

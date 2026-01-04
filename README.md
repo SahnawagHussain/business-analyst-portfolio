@@ -6,10 +6,10 @@ Google Data Analytics Certified.
 
 ## Skills
 - SQL (Data Cleaning, Joins, Aggregations)
-- Excel (Pivot Tables, Dashboards)
-- Tableau (Data Visualization)
+- Excel (Pivot Tables, Formulas, Dashboards)
+- Tableau, Power BI (Data Visualization)
 - Python (Data Cleaning & Analysis)
-- CRM Analysis & Customer Retention
+- CRM Analysis & Customer Retention (Salesforce, Monday.com)
 
 ## Projects
 1. Sales & Revenue Performance Analysis  

@@ -1,15 +1,21 @@
 <div class="hero">
-  <h1>Sahnawag Hussain</h1>
+  <h1>Turning Data into Business Decisions</h1>
   <h2>Business Analyst</h2>
 
-  <p>👋 Hi, I’m Sahnawag. I transform raw business data into actionable insights.  
-  Google Data Analytics Certified with hands-on experience in sales performance and CRM retention analysis.</p>
+  <p>
+    👋 Hi, I’m <strong>Sahnawag Hussain</strong> — a Business Analyst focused on
+    uncovering insights from data to drive growth, retention, and smarter decisions.
+    <br><br>
+    Google Data Analytics Certified with hands-on experience in
+    <strong>sales performance analysis</strong> and
+    <strong>CRM customer retention</strong>.
+  </p>
 
   <div class="hero-buttons">
-    <a href="https://github.com/sahnawaghussain" class="hero-btn">View on GitHub</a>
+    <a href="https://github.com/sahnawaghussain" class="hero-btn">View GitHub</a>
     <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
   </div>
-
+</div>
 
 ---
 

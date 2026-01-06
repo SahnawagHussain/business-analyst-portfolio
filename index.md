@@ -1,21 +1,14 @@
----
-layout: default
-title: Business Analyst Portfolio | Sahnawag Hussain
----
+<div class="hero">
+  <h1>Sahnawag Hussain</h1>
+  <h2>Business Analyst</h2>
 
-<div align="center">
+  <p>👋 Hi, I’m Sahnawag. I transform raw business data into actionable insights.  
+  Google Data Analytics Certified with hands-on experience in sales performance and CRM retention analysis.</p>
 
-<h1>👋 Hi, I’m <b>Sahnawag Hussain</b></h1>
-
-<h3>Business Analyst | SQL • Excel • Tableau</h3>
-
-<p>
-I transform raw business data into actionable insights.<br>
-Google Data Analytics Certified with hands-on experience in<br>
-sales performance and CRM retention analysis.
-</p>
-
-</div>
+  <div class="hero-buttons">
+    <a href="https://github.com/sahnawaghussain" class="hero-btn">View on GitHub</a>
+    <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
+  </div>
 
 
 ---

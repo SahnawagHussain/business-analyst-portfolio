@@ -22,11 +22,13 @@ sales performance and CRM retention analysis.
 
 ## 🧰 Skills
 
-- **SQL** – Data cleaning, joins, aggregations, KPI calculations  
-- **Excel** – Pivot tables, KPI summaries, validation  
-- **Tableau** – Executive dashboards, relationships, storytelling  
-- **Python** – Data cleaning and exploratory analysis  
-- **CRM Analysis** – Retention, CLV, engagement insights  
+| Skill                                     | Proficiency |
+|-------------------------------------------|---------------|
+| SQL                                       | 75% ▓▓▓▓▓▓▓░░ |
+| Excel                                     | 85% ▓▓▓▓▓▓▓▓░ |
+| Tableau                                   | 80% ▓▓▓▓▓▓▓░░ |
+| Python                                    | 65% ▓▓▓▓▓░░░░ |
+| CRM Exposure: Salesforce, Monday.com      | 80% ▓▓▓▓▓▓▓░░ |
 
 ---
 

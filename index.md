@@ -5,13 +5,18 @@ title: Business Analyst Portfolio | Sahnawag Hussain
 
 <div align="center">
 
-# 👋 Hi, I’m **Sahnawag Hussain**
-### Business Analyst | SQL • Excel • Tableau
+<h1>👋 Hi, I’m <b>Sahnawag Hussain</b></h1>
 
-I work on transforming raw business data into actionable insights.  
-Google Data Analytics Certified with hands-on project experience in sales and CRM analytics.
+<h3>Business Analyst | SQL • Excel • Tableau</h3>
+
+<p>
+I transform raw business data into actionable insights.<br>
+Google Data Analytics Certified with hands-on experience in<br>
+sales performance and CRM retention analysis.
+</p>
 
 </div>
+
 
 ---
 

@@ -37,6 +37,13 @@ Identified key business questions such as:
 
 ### 5. Data Visualization
 - Built Tableau dashboards for revenue trends and comparisons
+---
+
+## 📊 Tableau Dashboards
+
+### Sales & Revenue Dashboard
+
+<img src="../assets/Sales and revenue dashboard.png" alt="Sales and Revenue Dashboard" width="900"/>
 
 ## Key Insights
 - Few customers bring most revenue

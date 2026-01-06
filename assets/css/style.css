@@ -1,0 +1,116 @@
+/* ---------- General Body ---------- */
+body {
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: linear-gradient(135deg, #0d1117, #161b22);
+    color: #c9d1d9;
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------- Container ---------- */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+    color: #58a6ff;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+/* ---------- Cards ---------- */
+.card {
+    background: #161b22;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    margin-bottom: 2rem;
+}
+
+/* ---------- Skill Bars ---------- */
+.skill {
+    margin-bottom: 1rem;
+}
+.skill-name {
+    font-weight: 600;
+    color: #c9d1d9;
+}
+.skill-bar {
+    background: #30363d;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 18px;
+    margin-top: 5px;
+}
+.skill-level {
+    height: 100%;
+    text-align: right;
+    padding-right: 5px;
+    font-weight: bold;
+    border-radius: 8px;
+    color: white;
+}
+.sql { width:75%; background:#4caf50;}
+.excel{width:85%; background:#2196f3;}
+.tableau{width:80%; background:#ff9800;}
+.python{width:65%; background:#9c27b0;}
+.crm{width:80%; background:#f44336;}
+
+/* ---------- Project Cards ---------- */
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+.project-card {
+    background: #161b22;
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0px 4px 14px rgba(0,0,0,0.5);
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+.project-card:hover {
+    transform: translateY(-6px);
+}
+.project-thumb {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+.project-card h3 {
+    color: #58a6ff;
+    margin: .5rem 0 .5rem;
+    font-size: 1.2rem;
+}
+.project-card p {
+    color: #c9d1d9;
+    font-size: .95rem;
+    margin-bottom: .75rem;
+}
+.project-btn {
+    display: inline-block;
+    background: #39a0ed;
+    color: white;
+    padding: .5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.project-btn:hover {
+    background: #1f6ed0;
+}
+
+/* ---------- Links ---------- */
+a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

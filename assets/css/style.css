@@ -1,137 +1,158 @@
-/* ---------- Hero / Top Section ---------- */
+/* ---------- Global Reset ---------- */
+* {
+    box-sizing: border-box;
+}
+
+/* ---------- Body ---------- */
+body {
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: linear-gradient(135deg, #0d1117, #161b22);
+    color: #c9d1d9;
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------- Main Container ---------- */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 3rem 2rem;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+    margin-bottom: 0.6rem;
+    font-weight: 700;
+}
+
+/* ---------- HERO SECTION ---------- */
 .hero {
     text-align: center;
     padding: 4rem 2rem 3rem;
-    background: linear-gradient(135deg, #0d1117, #161b22);
-    border-radius: 12px;
-    margin-bottom: 3rem;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.6);
-    border: 1px solid rgba(88,166,255,0.15); /* 👈 add here */
+    background: #f6f8fa;               /* light inside */
+    color: #0d1117;
+    border-radius: 16px;
+    margin-bottom: 3.5rem;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.45);
 }
 
 .hero h1 {
-    font-size: 2.3rem;
-    color: #58a6ff;
-    margin-bottom: 0.5rem;
+    font-size: 2.4rem;
+    color: #0d1117;
+    margin-bottom: 0.4rem;
     font-weight: 700;
-    letter-spacing: 0.5px;
 }
 
 .hero h2 {
-    font-size: 1.5rem;
-    color: #c9d1d9;
-    margin-bottom: 1rem;
+    font-size: 1.4rem;
+    color: #444;
+    margin-bottom: 1.3rem;
     font-weight: 500;
 }
 
 .hero p {
     font-size: 1.05rem;
-    color: #c9d1d9;
-    max-width: 650px;
-    margin: 0.5rem auto 1.5rem;
+    color: #333;
+    max-width: 680px;
+    margin: 0 auto 1.8rem;
     line-height: 1.6;
 }
 
+/* ---------- Hero Buttons ---------- */
 .hero-buttons {
-    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 .hero-btn {
     display: inline-block;
-    background: #39a0ed;
-    color: white;
-    padding: 0.6rem 1.3rem;
-    border-radius: 6px;
+    background: #1f6feb;
+    color: #ffffff;
+    padding: 0.65rem 1.6rem;
+    border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
-    margin: 0 0.5rem;
-    transition: background 0.2s;
+    margin: 0 0.6rem;
+    transition: all 0.2s ease;
 }
 
 .hero-btn:hover {
-    background: #1f6ed0;
+    background: #0d419d;
+    transform: translateY(-2px);
 }
-/* ---------- Skill Bars ---------- */
+
+/* ---------- Cards (Skills, Projects, Contact) ---------- */
+.card {
+    background: #f6f8fa;
+    color: #0d1117;
+    padding: 1.6rem;
+    border-radius: 14px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+    margin-bottom: 2.5rem;
+}
+
+/* ---------- Skills Section ---------- */
 .skill {
-    margin-bottom: 1rem;
+    margin-bottom: 1.2rem;
 }
+
 .skill-name {
     font-weight: 600;
-    color: #c9d1d9;
+    color: #0d1117;
+    margin-bottom: 6px;
 }
+
+/* ---------- Skill Bars ---------- */
 .skill-bar {
-    background: #30363d;
-    border-radius: 8px;
+    background: #d0d7de;
+    border-radius: 10px;
     overflow: hidden;
     height: 18px;
-    margin-top: 5px;
 }
+
 .skill-level {
     height: 100%;
     text-align: right;
-    padding-right: 5px;
-    font-weight: bold;
-    border-radius: 8px;
-    color: white;
+    padding-right: 8px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    border-radius: 10px;
+    color: #ffffff;
 }
-.sql { width:75%; background:#4caf50;}
-.excel{width:85%; background:#2196f3;}
-.tableau{width:80%; background:#ff9800;}
-.python{width:65%; background:#9c27b0;}
-.crm{width:80%; background:#f44336;}
 
-/* ---------- Project Cards ---------- */
-.projects-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2rem;
-    margin-top: 1.5rem;
-}
-.project-card {
-    background: #161b22;
-    padding: 1rem;
-    border-radius: 12px;
-    box-shadow: 0px 4px 14px rgba(0,0,0,0.5);
-    text-align: center;
-    transition: transform 0.2s ease;
-}
-.project-card:hover {
-    transform: translateY(-6px);
-}
-.project-thumb {
-    width: 100%;
-    border-radius: 8px;
-    margin-bottom: 1rem;
-    object-fit: cover;
-}
-.project-card h3 {
-    color: #58a6ff;
-    margin: .5rem 0 .5rem;
-    font-size: 1.2rem;
-}
-.project-card p {
-    color: #c9d1d9;
-    font-size: .95rem;
-    margin-bottom: .75rem;
-}
-.project-btn {
-    display: inline-block;
-    background: #39a0ed;
-    color: white;
-    padding: .5rem 1rem;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-}
-.project-btn:hover {
-    background: #1f6ed0;
-}
+/* Skill Colors */
+.sql     { width:75%; background:#4caf50; }
+.excel   { width:85%; background:#2196f3; }
+.tableau { width:80%; background:#ff9800; }
+.python  { width:65%; background:#9c27b0; }
+.crm     { width:80%; background:#f44336; }
 
 /* ---------- Links ---------- */
 a {
-    color: #58a6ff;
+    color: #1f6feb;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
+}
+
+/* ---------- Section Titles ---------- */
+section h2,
+.card h2 {
+    color: #0d1117;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero h2 {
+        font-size: 1.2rem;
+    }
+
+    .container {
+        padding: 2rem 1.2rem;
+    }
 }

@@ -1,35 +1,53 @@
-/* ---------- General Body ---------- */
-body {
-    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+/* ---------- Hero / Top Section ---------- */
+.hero {
+    text-align: center;
+    padding: 4rem 2rem 3rem;
     background: linear-gradient(135deg, #0d1117, #161b22);
-    color: #c9d1d9;
-    margin: 0;
-    padding: 0;
-}
-
-/* ---------- Container ---------- */
-.container {
-    max-width: 1000px;
-    margin: auto;
-    padding: 2rem;
-}
-
-/* ---------- Headings ---------- */
-h1, h2, h3 {
-    color: #58a6ff;
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-}
-
-/* ---------- Cards ---------- */
-.card {
-    background: #161b22;
-    padding: 1.5rem;
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.6);
 }
 
+.hero h1 {
+    font-size: 2.5rem;
+    color: #58a6ff;
+    margin-bottom: 0.3rem;
+}
+
+.hero h2 {
+    font-size: 1.5rem;
+    color: #c9d1d9;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+.hero p {
+    font-size: 1.05rem;
+    color: #c9d1d9;
+    max-width: 650px;
+    margin: 0.5rem auto 1.5rem;
+    line-height: 1.6;
+}
+
+.hero-buttons {
+    margin-bottom: 1rem;
+}
+
+.hero-btn {
+    display: inline-block;
+    background: #39a0ed;
+    color: white;
+    padding: 0.6rem 1.3rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0 0.5rem;
+    transition: background 0.2s;
+}
+
+.hero-btn:hover {
+    background: #1f6ed0;
+}
 /* ---------- Skill Bars ---------- */
 .skill {
     margin-bottom: 1rem;

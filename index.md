@@ -20,34 +20,54 @@ sales performance and CRM retention analysis.
 
 ---
 
-## 🧰 Skills
-
-| Skill                                     | Proficiency |
-|-------------------------------------------|---------------|
-| SQL                                       | 75% ▓▓▓▓▓▓▓░░ |
-| Excel                                     | 85% ▓▓▓▓▓▓▓▓░ |
-| Tableau                                   | 80% ▓▓▓▓▓▓▓░░ |
-| Python                                    | 65% ▓▓▓▓▓░░░░ |
-| CRM Exposure: Salesforce, Monday.com      | 80% ▓▓▓▓▓▓▓░░ |
+## 💼 Skills
+<div class="card">
+<div class="skill">
+  <div class="skill-name">SQL</div>
+  <div class="skill-bar"><div class="skill-level sql">75%</div></div>
+</div>
+<div class="skill">
+  <div class="skill-name">Excel</div>
+  <div class="skill-bar"><div class="skill-level excel">85%</div></div>
+</div>
+<div class="skill">
+  <div class="skill-name">Tableau</div>
+  <div class="skill-bar"><div class="skill-level tableau">80%</div></div>
+</div>
+<div class="skill">
+  <div class="skill-name">Python</div>
+  <div class="skill-bar"><div class="skill-level python">65%</div></div>
+</div>
+<div class="skill">
+  <div class="skill-name">CRM Exposure: Salesforce, Monday.com</div>
+  <div class="skill-bar"><div class="skill-level crm">80%</div></div>
+</div>
+</div>
 
 ---
 
 ## 📂 Projects
+<div class="projects-container">
 
-### 📈 Sales & Revenue Performance Analysis
-Analyze revenue trends, product performance, and regional sales.
+<!-- Project 1 -->
+<div class="project-card">
+  <img src="assets/images/Project-1-thumbnail.png" alt="Sales & Revenue Analysis" class="project-thumb">
+  <h3>Sales & Revenue Analysis</h3>
+<p>Analyze revenue trends, top products & regions, actionable business recommendations.</p>
+  <a href="https://github.com/SahnawagHussain/sales-analysis" class="project-btn">View on GitHub</a>
+</div>
 
-👉 [View Project](./Project-1-Sales-Revenue-Analysis)
+<!-- Project 2 -->
+<div class="project-card">
+  <img src="assets/images/Project-2-thumbnail.png" alt="CRM Customer Retention Analysis" class="project-thumb">
+  <h3>CRM Customer Retention Analysis</h3>
+  <p>Analyze customer behavior, engagement, retention, and actionable business insights.</p>
+  <a href="https://github.com/yourusername/crm-retention" class="project-btn">View on GitHub</a>
+</div>
+
+</div>
 
 ---
-
-### 👥 CRM & Customer Retention Analysis
-Analyze retention patterns and engagement impact on repeat purchases.
-
-👉 [View Project](./Project-2-CRM-Customer-Retention)
-
----
-
 ## 🎓 Certification
 
 ### Google Data Analytics Professional Certificate  
@@ -60,7 +80,10 @@ Issued by Google via Coursera
 
 ---
 
-## 📫 Contact
+## 📬 Contact
+<div class="card">
+Email: sahil786hussain127@gmail.com
+LinkedIn: [linkedin.com/in/sahnawaghussain](https://www.linkedin.com/in/sahnawag)
+</div>
 
-- **LinkedIn:** https://www.linkedin.com/in/sahnawag  
-- **Email:** sahil786hussain127@gmail.com
+</div>

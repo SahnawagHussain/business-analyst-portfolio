@@ -82,9 +82,9 @@ Issued by Google via Coursera
 
 ## 📬 Contact
 <div class="card">
-Email: sahil786hussain127@gmail.com
-
-LinkedIn: [linkedin.com/in/sahnawaghussain](https://www.linkedin.com/in/sahnawag)
+Email: <a href="mailto:sahil786hussain1272@gmail.com">sahil786hussain1272@gmail.com</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/sahnawag" target="_blank">linkedin.com/in/sahnawag</a><br>
+GitHub: <a href="https://github.com/sahnawaghussain" target="_blank">github.com/sahnawaghussain</a>
 </div>
 
 </div>

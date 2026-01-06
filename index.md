@@ -50,7 +50,7 @@
 
 <!-- Project 1 -->
 <div class="project-card">
-  <img src="assets/images/Project-1-thumbnail.png" alt="Sales & Revenue Analysis" class="project-thumb">
+  <img src="assets/Project-1-thumbnail.png" class="project-thumb">
   <h3>Sales & Revenue Analysis</h3>
 <p>Analyze revenue trends, top products & regions, actionable business recommendations.</p>
   <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-1-Sales-Revenue-Analysis" class="project-btn">View on GitHub</a>
@@ -58,7 +58,7 @@
 
 <!-- Project 2 -->
 <div class="project-card">
-  <img src="assets/images/Project-2-thumbnail.png" alt="CRM Customer Retention Analysis" class="project-thumb">
+  <img src="assets/Project-2-thumbnail.png" class="project-thumb">
   <h3>CRM Customer Retention Analysis</h3>
   <p>Analyze customer behavior, engagement, retention, and actionable business insights.</p>
   <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-2-CRM-Customer-Retention" class="project-btn">View on GitHub</a>

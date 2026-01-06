@@ -86,5 +86,3 @@ Email: <a href="mailto:sahil786hussain1272@gmail.com">sahil786hussain1272@gmail.
 LinkedIn: <a href="https://www.linkedin.com/in/sahnawag" target="_blank">linkedin.com/in/sahnawag</a><br>
 GitHub: <a href="https://github.com/sahnawaghussain" target="_blank">github.com/sahnawaghussain</a>
 </div>
-
-</div>

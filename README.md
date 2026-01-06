@@ -29,8 +29,7 @@ I specialize in end-to-end analysis — from data cleaning and validation to KPI
 - Validated results using Excel pivot tables
 - Built Tableau dashboards to support performance monitoring and decision-making
 
-👉 View Project:  
-`Project-1-Sales-Revenue-Analysis`
+👉 [View Project](./Project-1-Sales-Revenue-Analysis)
 
 ---
 
@@ -43,8 +42,7 @@ I specialize in end-to-end analysis — from data cleaning and validation to KPI
 - Used Excel to validate retention metrics and summarize KPIs
 - Built Tableau dashboards to visualize retention, customer value, and engagement impact
 
-👉 View Project:  
-`Project-2-CRM-Customer-Retention`
+👉 [View Project](./Project-2-CRM-Customer-Retention)
 
 ---
 

@@ -6,6 +6,7 @@ Google Data Analytics Certified, with practical experience in sales performance 
 
 I specialize in end-to-end analysis — from data cleaning and validation to KPI reporting and executive dashboards.
 
+**PortFolio Link:** https://sahnawaghussain.github.io/business-analyst-portfolio/
 ---
 
 ## 🧰 Skills & Tools

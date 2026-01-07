@@ -21,7 +21,7 @@
 
   <!-- Right image -->
   <div class="hero-image">
-    <img src="assets/images/Lndp.jpg" alt="Sahnawag Hussain">
+    <img src="assets/Lndp.jpg" alt="Sahnawag Hussain">
   </div>
 
 </div>

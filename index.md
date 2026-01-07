@@ -1,4 +1,6 @@
-<div class="hero">
+<div class="hero hero-flex">
+  
+<div class="hero-text">
   <h1>Turning Data into Business Decisions</h1>
   <h2>Business Analyst</h2>
 
@@ -15,6 +17,13 @@
     <a href="https://github.com/sahnawaghussain" class="hero-btn">View GitHub</a>
     <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
   </div>
+</div>
+
+  <!-- Right image -->
+  <div class="hero-image">
+    <img src="assets/images/Lndp.jpg" alt="Sahnawag Hussain">
+  </div>
+
 </div>
 
 ---

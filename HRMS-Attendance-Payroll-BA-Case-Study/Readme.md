@@ -176,10 +176,10 @@ Acceptance criteria ensured stories were clear for development and testing.
 
 I treated User Acceptance Testing (UAT) as **business validation**, not technical testing.
 
-### Sample UAT Scenarios
-- Verify payroll totals against attendance data  
-- Validate leave-based salary deductions  
-- Confirm accuracy of payroll and attendance reports  
+### Validation Activities
+- Cross-checked attendance data in Excel  
+- Verified payroll calculations manually  
+- Confirmed report totals against source data 
 
 My responsibility was to ensure:
 > *What the business requested is exactly what the system delivers.*
@@ -197,7 +197,7 @@ This is where I added the most value.
 
 ### Tools Used
 - **Excel** – Initial checks and validation  
-- **SQL** – Data joins, validation queries  
+- **SQL** – Used only for simple data checks  
 - **Tableau** – Dashboards and insights  
 
 ---

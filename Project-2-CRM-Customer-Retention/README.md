@@ -83,20 +83,14 @@ The analysis was performed using CRM-related datasets:
 ## 📈 Tableau Dashboards
 
 ### Customer Overview Dashboard
-- Customer distribution by segment  
-- Revenue contribution by segment 
 <img src="../assets/CUSTOMER OVERVIEW.png" alt="Customer Overview Dashboard" width="900"/>
 
 ---
-### Customer Engagement Impact Dashboard
-- Interaction count vs repeat purchases  
-- Impact of resolved interactions on retention 
+### Customer Engagement Impact Dashboard 
 <img src="../assets/Customer Engagement Impact.png" alt="Customer Engagement Impact Dashboard" width="900"/>
 
 ---
 ### Retention & Customer Value Dashboard
-- Repeat vs one-time customers  
-- Customer lifetime value indicators 
 <img src="../assets/Retention & Customer Value.png" alt="Retention and Customer Value Dashboard" width="900"/>
 
 ---

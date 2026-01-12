@@ -1,4 +1,6 @@
 # Sales & Revenue Analysis
+**Business Analyst Case Study – Sahil Hussain**
+---
 
 ## Objective
 Analyze company sales data to understand revenue trends, identify top-performing products, regions, and sales channels, and provide actionable business insights.

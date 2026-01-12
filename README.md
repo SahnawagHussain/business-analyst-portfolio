@@ -1,59 +1,76 @@
-# Business Analyst Portfolio – Sahnawag Hussain
+# 📊 Sahnawag Hussain - Business Analyst Portfolio
+
+**Turning Data into Actionable Business Decisions**  
+
+🌐 [Visit My Portfolio Website](https://sahnawaghussain.github.io/business-analyst-portfolio/)
+
+Welcome to my portfolio! Here you’ll find **real-world business analysis projects** where I analyzed data, built dashboards, and delivered actionable insights to drive growth, retention, and operational efficiency.
+
+---
 
 ## 👋 About Me
-Business Analyst with hands-on experience in SQL, Excel, and Tableau, focused on transforming raw data into meaningful business insights.  
-Google Data Analytics Certified, with practical experience in sales performance analysis and customer retention analytics.
+Hi! I’m **Sahnawag Hussain**, a Business Analyst passionate about transforming data into insights that help businesses make smarter decisions.
 
-I specialize in end-to-end analysis — from data cleaning and validation to KPI reporting and executive dashboards.
-
-**PortFolio Link:** https://sahnawaghussain.github.io/business-analyst-portfolio/
----
-
-## 🧰 Skills & Tools
-- **SQL**: Data cleaning, joins, aggregations, KPI calculation
-- **Excel**: Pivot tables, KPI summaries, validation of SQL results
-- **Tableau**: Interactive dashboards, relationships, business storytelling
-- **Python**: Data cleaning and exploratory analysis
-- **Business Analysis**: Sales performance, customer retention, CLV analysis
-- **CRM Exposure**: Salesforce, Monday.com
+- 💼 Skilled in **SQL, Excel, Tableau, Python, CRM (Salesforce & Monday.com)**  
+- 🎓 **Google Data Analytics Certified**  
+- 📍 Based in India  
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Skills & Tools
 
-### 🔹 Project 1: Sales & Revenue Performance Analysis
-**Objective:** Analyze sales data to identify revenue trends, top-performing products, and regional performance.  
-**Tools Used:** SQL, Excel, Tableau  
-
-- Cleaned and prepared raw sales data using SQL
-- Calculated key KPIs such as total revenue, AOV, and monthly growth
-- Validated results using Excel pivot tables
-- Built Tableau dashboards to support performance monitoring and decision-making
-
-👉 [View Project](./Project-1-Sales-Revenue-Analysis)
+![SQL](https://img.shields.io/badge/SQL-75%25-green)
+![Excel](https://img.shields.io/badge/Excel-85%25-blue)
+![Tableau](https://img.shields.io/badge/Tableau-80%25-orange)
+![Python](https://img.shields.io/badge/Python-65%25-purple)
+![CRM](https://img.shields.io/badge/CRM-Salesforce%2C%20Monday.com-red)
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-brightgreen)
 
 ---
 
-### 🔹 Project 2: CRM & Customer Retention Analysis
-**Objective:** Understand customer retention patterns and the impact of engagement on repeat purchases.  
-**Tools Used:** SQL, Excel, Tableau  
+## 🔎 Projects
 
-- Cleaned CRM data across customers, orders, and interactions using SQL
-- Analyzed repeat customers, retention rate, and customer lifetime value (CLV)
-- Used Excel to validate retention metrics and summarize KPIs
-- Built Tableau dashboards to visualize retention, customer value, and engagement impact
+### 1️⃣ Sales & Revenue Analysis
+Analyze sales trends, revenue patterns, and provide actionable recommendations.  
+🔗 [View Project](https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-1-Sales-Revenue-Analysis)
 
-👉 [View Project](./Project-2-CRM-Customer-Retention)
-
----
-
-## 📊 Dashboards
-Interactive dashboards created using Tableau Public are included within each project folder.
+**Highlights:**  
+- SQL queries for revenue insights  
+- Excel pivot tables and dashboards  
+- Tableau visualizations  
+- BRD & FRD documents  
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/sahnawag  
-- **Email:** sahil786hussain127@gmail.com
+### 2️⃣ CRM Customer Retention Analysis
+Analyze customer behavior, retention, and engagement to reduce churn.  
+🔗 [View Project](https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-2-CRM-Customer-Retention)
 
+**Highlights:**  
+- Customer segmentation & churn analysis  
+- SQL & Excel analysis  
+- Tableau dashboards for engagement & retention insights  
 
+---
+
+### 3️⃣ HRMS Attendance & Payroll Case Study
+End-to-end analysis of HRMS attendance and payroll.  
+🔗 [View Project](https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/HRMS-Attendance-Payroll-BA-Case-Study)
+
+**Highlights:**  
+- BRD & FRD documents  
+- Excel analysis of attendance & payroll  
+- Tableau dashboards for KPI monitoring  
+
+---
+
+## 📬 Contact Me
+I’m open to **Business Analyst roles** and freelance opportunities.
+
+📧 Email: sahil786hussain127@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/sahnawag](https://www.linkedin.com/in/sahnawag)  
+🔗 GitHub: [github.com/SahnawagHussain](https://github.com/SahnawagHussain)
+
+---
+
+**Thank you for visiting my portfolio! 😊**

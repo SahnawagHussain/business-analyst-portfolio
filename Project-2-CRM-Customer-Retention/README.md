@@ -3,80 +3,50 @@
 
 ---
 
-## 📌 Project Objective
-
-The objective of this project was to analyze CRM data to understand **customer behavior, engagement, and retention**, and to identify **high-value customers** who contribute the most to long-term revenue.
-
-This project demonstrates how a **Business Analyst**:
-- Translates business questions into measurable metrics  
-- Analyzes customer data to identify retention patterns  
-- Supports decision-making using data and dashboards  
+**Business Context:**  
+This project analyzes customer behavior and retention for a CRM-driven business to understand engagement patterns, churn risk, and customer lifetime value. The goal is to provide actionable insights to improve retention and increase revenue.
 
 ---
 
-## 🧠 Business Problem
-
-The business was facing challenges in understanding:
-- Why some customers return while others churn  
-- Which customers generate the most revenue over time  
-- How customer engagement impacts repeat purchases  
-- Which customer segments require focused retention efforts  
-
-Due to the lack of structured analysis, management struggled to:
-- Identify high-value customers  
-- Design effective retention strategies  
-- Improve customer loyalty and lifetime value  
+## 📊 Key Metrics / KPIs
+- **Churn Rate (%)** – Customers lost over a period  
+- **Retention Rate (%)** – Customers retained month-over-month  
+- **Customer Lifetime Value (CLV)** – Revenue contribution per customer  
+- Customer Segmentation by engagement level  
 
 ---
 
-## 🎯 Key Business Questions
-
-- Who are the most valuable customers?
-- How frequently do customers make purchases?
-- Which customer segments generate higher revenue?
-- Does customer engagement improve retention?
-- Which customers are at risk of not returning?
+## BRD / FRD
+- **BRD (Business Requirement Document):** Defines business objectives, stakeholders, and expected outcomes  
+- **FRD (Functional Requirement Document):** Details functional requirements for dashboards, reporting, and analysis  
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Analysis Overview
 
-- **SQL** – Data cleaning, table joins, and analysis  
-- **Excel** – Pivot tables and summary analysis  
-- **Tableau** – Dashboards and data visualization  
-
----
-
-## 📊 Data Overview
-
-The analysis was performed using CRM-related datasets:
-
-### Customer Data
-- Customer ID  
-- Demographics  
-- City  
-- Signup Date  
-- Customer Segment (Regular / Premium / Enterprise)  
-
-### Order Data
-- Order ID  
-- Customer ID  
-- Order Date  
-- Order Value  
-
-### Customer Interaction Data
-- Interaction Type (Call / Email / Chat)  
-- Issue Resolution Status  
+### SQL Queries
+All queries are in the `sql/` folder. Each query answers a specific business question:  
+- **Query 1:** Top customers by revenue contribution  
+- **Query 2:** Customers at risk of churn  
+- **Query 3:** Engagement trends across customer segments  
+- **Query 4:** Retention & lifetime value analysis  
 
 ---
 
-## 🔍 Key Analysis Performed
+### Data
+The `data/` folder contains all CSV files. Column definitions and relationships are documented in `data/readme.md`.  
+**Key Points:**  
+- Customers, Orders, and Interactions datasets linked by `customer_id`  
+- Provides the foundation for retention and engagement analysis  
 
-- Customer retention and repeat purchase behavior  
-- Revenue contribution by customer segment  
-- Average order value and orders per customer  
-- Engagement impact on repeat purchases  
-- Identification of high-value and at-risk customers  
+---
+
+### Excel Analysis
+The `excel/` folder contains pivot tables and charts for deep-dive analysis.  
+**Highlights:**  
+- Retention trends and churn analysis  
+- Lifetime value calculations per customer segment  
+- Engagement score summaries  
 
 ---
 
@@ -112,16 +82,5 @@ The analysis was performed using CRM-related datasets:
 - Improve customer support resolution rates  
 - Run targeted campaigns for low-engagement customers  
 - Personalize communication based on customer behavior  
-
----
-
-## 🧠 What This Project Demonstrates
-
-This project reflects a **Business Analyst mindset**:
-- Understanding customer-centric business problems  
-- Translating business goals into measurable metrics  
-- Analyzing data using SQL and Excel  
-- Communicating insights through Tableau dashboards  
-- Providing actionable, data-backed recommendations  
 
 ---

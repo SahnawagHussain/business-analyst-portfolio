@@ -1,32 +1,48 @@
-# Sales & Revenue Analysis
+# Project 1: Sales & Revenue Analysis
   **Business Analyst Case Study – Sahnawag Hussain**
 
 ---
 
-## Objective
-Analyze company sales data to understand revenue trends, identify top-performing products, regions, and sales channels, and provide actionable business insights.
+**Business Context:**  
+This project analyzes sales performance for a retail business to identify revenue trends, top-performing products, and high-value regions. The goal is to provide actionable recommendations to improve sales and profitability.
 
-## Tools Used
-- SQL (data cleaning and analysis)
-- Excel (pivot tables and summary validation)
-- Tableau (dashboards and visualization)
+---
 
-## Dataset
-Order-level sales data containing:
-- Product
-- Region
-- Sales channel
-- Units sold
-- Unit price
+## 📊 Key Metrics / KPIs
+- Total Revenue by Month & Region  
+- Top 10 Products by Sales  
+- Revenue Growth Rate  
+- Contribution of Product Categories to Overall Revenue  
 
-Revenue was calculated during analysis.
+---
 
-## Analysis Approach
-- Identified key business questions around revenue performance
-- Cleaned and validated data using SQL
-- Analyzed revenue by time, product, region, and channel
-- Used Excel pivot tables for cross-validation
-- Built Tableau dashboards for insight communication
+### BRD / FRD
+- **BRD:** Defines business goals, stakeholders, and expected outcomes  
+- **FRD:** Details functional requirements for reporting and dashboards  
+
+---
+
+## 🛠 Analysis Overview
+
+### SQL Queries
+All queries are in the `sql/` folder. Key queries include:  
+- **Query 1:** Top products by revenue  
+- **Query 2:** Monthly sales trends  
+- **Query 3:** Regional revenue comparison  
+- **Query 4:** Category-wise contribution  
+
+These queries answer **critical business questions** and serve as the foundation for Excel and Tableau analysis.
+
+---
+
+### Excel Analysis
+The `excel/` folder contains pivot tables and charts.  
+**Highlights:**  
+- Monthly revenue trends  
+- Product-wise and region-wise sales summaries  
+- Key insights tables for management  
+
+---
 
 ## Tableau Dashboard
 Sales & Revenue Dashboard includes:

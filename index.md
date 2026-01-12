@@ -1,55 +1,57 @@
 <div class="hero hero-flex">
-  
-<div class="hero-text">
-  <h1>Turning Data into Business Decisions</h1>
-  <h2>Business Analyst</h2>
+  <div class="hero-text">
+    <h1>Turning Data into Business Decisions</h1>
+    <h2>Business Analyst & Project Manager</h2>
 
-  <p>
-    👋 Hi, I’m <strong>Sahnawag Hussain</strong> — a Business Analyst focused on
-    uncovering insights from data to drive growth, retention, and smarter decisions.
-    <br><br>
-    Google Data Analytics Certified with hands-on experience in
-    <strong>sales performance analysis</strong> and
-    <strong>CRM customer retention</strong>.
-  </p>
+    <p>
+      👋 Hi, I’m <strong>Sahnawag Hussain</strong> — a Business Analyst & Project Manager with experience in <strong>sales performance, CRM retention, HR analytics, Jira, and Salesforce</strong>. I turn data into actionable business decisions.
+      <br><br>
+      Google Data Analytics Certified with hands-on experience in <strong>sales performance analysis</strong>, <strong>CRM customer retention</strong>, and <strong>HR process optimization</strong>.
+    </p>
 
-  <div class="hero-buttons">
-    <a href="https://github.com/sahnawaghussain" class="hero-btn">View GitHub</a>
-    <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
+    <div class="hero-buttons">
+      <a href="https://github.com/sahnawaghussain" class="hero-btn">View GitHub</a>
+      <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
+    </div>
   </div>
-</div>
 
-  <!-- Right image -->
   <div class="hero-image">
     <img src="assets/Lndp.jpg" alt="Sahnawag Hussain">
   </div>
-
 </div>
 
 ---
 
 ## 💼 Skills
 <div class="card">
-<div class="skill">
-  <div class="skill-name">SQL</div>
-  <div class="skill-bar"><div class="skill-level sql">75%</div></div>
-</div>
-<div class="skill">
-  <div class="skill-name">Excel</div>
-  <div class="skill-bar"><div class="skill-level excel">85%</div></div>
-</div>
-<div class="skill">
-  <div class="skill-name">Tableau</div>
-  <div class="skill-bar"><div class="skill-level tableau">80%</div></div>
-</div>
-<div class="skill">
-  <div class="skill-name">Python</div>
-  <div class="skill-bar"><div class="skill-level python">65%</div></div>
-</div>
-<div class="skill">
-  <div class="skill-name">CRM Exposure: Salesforce, Monday.com</div>
-  <div class="skill-bar"><div class="skill-level crm">80%</div></div>
-</div>
+  <div class="skill">
+    <div class="skill-name">SQL</div>
+    <div class="skill-bar"><div class="skill-level sql">75%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">Excel</div>
+    <div class="skill-bar"><div class="skill-level excel">85%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">Tableau</div>
+    <div class="skill-bar"><div class="skill-level tableau">80%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">Python</div>
+    <div class="skill-bar"><div class="skill-level python">65%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">CRM Exposure: Salesforce, Monday.com</div>
+    <div class="skill-bar"><div class="skill-level crm">80%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">Jira Project Management</div>
+    <div class="skill-bar"><div class="skill-level jira">80%</div></div>
+  </div>
+  <div class="skill">
+    <div class="skill-name">Salesforce Administrator</div>
+    <div class="skill-bar"><div class="skill-level salesforce">75%</div></div>
+  </div>
 </div>
 
 ---
@@ -57,25 +59,34 @@
 ## 📂 Projects
 <div class="projects-container">
 
-<!-- Project 1 -->
-<div class="project-card">
-  <img src="assets/Project-1-thumbnail.png" class="project-thumb">
-  <h3>Sales & Revenue Analysis</h3>
-<p>Analyze revenue trends, top products & regions, actionable business recommendations.</p>
-  <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-1-Sales-Revenue-Analysis" class="project-btn">View on GitHub</a>
-</div>
+  <!-- Project 1 -->
+  <div class="project-card">
+    <img src="assets/Project-1-thumbnail.png" class="project-thumb" alt="Sales & Revenue Analysis">
+    <h3>Sales & Revenue Analysis</h3>
+    <p>Analyze revenue trends, top products & regions, actionable business recommendations.</p>
+    <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-1-Sales-Revenue-Analysis" class="project-btn">View on GitHub</a>
+  </div>
 
-<!-- Project 2 -->
-<div class="project-card">
-  <img src="assets/Project-2-thumbnail.png" class="project-thumb">
-  <h3>CRM Customer Retention Analysis</h3>
-  <p>Analyze customer behavior, engagement, retention, and actionable business insights.</p>
-  <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-2-CRM-Customer-Retention" class="project-btn">View on GitHub</a>
-</div>
+  <!-- Project 2 -->
+  <div class="project-card">
+    <img src="assets/Project-2-thumbnail.png" class="project-thumb" alt="CRM Customer Retention Analysis">
+    <h3>CRM Customer Retention Analysis</h3>
+    <p>Analyze customer behavior, engagement, retention, and actionable business insights.</p>
+    <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-2-CRM-Customer-Retention" class="project-btn">View on GitHub</a>
+  </div>
+
+  <!-- Project 3 -->
+  <div class="project-card">
+    <img src="assets/Project-3-thumbnail.png" class="project-thumb" alt="HRMS Attendance & Payroll Case Study">
+    <h3>HRMS Attendance & Payroll Case Study</h3>
+    <p>Analyze attendance, payroll, and HR processes; dashboards and insights for management decision-making.</p>
+    <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/HRMS-Attendance-Payroll-BA-Case-Study" class="project-btn">View on GitHub</a>
+  </div>
 
 </div>
 
 ---
+
 ## 🎓 Certification
 
 ### Google Data Analytics Professional Certificate  
@@ -84,7 +95,6 @@ Issued by Google via Coursera
 <a href="assets/google-data-analytics-certificate.png" target="_blank">
   <img src="assets/google-data-analytics-certificate.png" alt="Google Data Analytics Certificate" width="600"/>
 </a>
-
 
 ---
 

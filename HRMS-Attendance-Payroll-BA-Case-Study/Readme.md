@@ -1,5 +1,5 @@
 #  HRMS Attendance & Payroll Automation with Business Intelligence  
-  **Business Analyst Case Study – Sahil Hussain**
+  **Business Analyst Case Study – Sahnawag Hussain**
 
 ---
 

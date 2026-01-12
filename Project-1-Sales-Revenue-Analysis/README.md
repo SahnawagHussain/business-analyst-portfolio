@@ -1,61 +1,50 @@
 # Sales & Revenue Analysis
 
 ## Objective
-Analyze company sales data to understand revenue trends, top-performing products,
-regions, and sales channels, and provide actionable business recommendations.
+Analyze company sales data to understand revenue trends, identify top-performing products, regions, and sales channels, and provide actionable business insights.
 
 ## Tools Used
-- SQL (Data Cleaning & Analysis)
-- Excel (Pivot Tables & Summary Analysis)
-- Tableau (Dashboard & Visualization)
+- SQL (data cleaning and analysis)
+- Excel (pivot tables and summary validation)
+- Tableau (dashboards and visualization)
 
 ## Dataset
-- Order-level sales data including product, region, sales channel,
-units sold, and unit price.
+Order-level sales data containing:
+- Product
+- Region
+- Sales channel
+- Units sold
+- Unit price
 
-## Steps Followed
+Revenue was calculated during analysis.
 
-### 1. Business Understanding
-Identified key business questions such as:
-- What is the total and monthly revenue?
-- Which products and regions generate the most revenue?
+## Analysis Approach
+- Identified key business questions around revenue performance
+- Cleaned and validated data using SQL
+- Analyzed revenue by time, product, region, and channel
+- Used Excel pivot tables for cross-validation
+- Built Tableau dashboards for insight communication
 
-### 2. Data Cleaning (SQL)
-- Removed duplicate records
-- Handled missing values
-- Verified data types
-- Created revenue column using units sold × unit price
-
-### 3. Data Analysis (SQL)
-- Calculated total and monthly revenue
-- Analyzed revenue by product, region, and sales channel
-- Calculated average order value
-
-### 4. Excel Analysis
-- Created pivot tables for revenue by product and region
-- Used filters and slicers for comparison
-
-### 5. Data Visualization
-- Built Tableau dashboards for revenue trends and comparisons
----
-
-## 📊 Tableau Dashboards
-
-### Sales & Revenue Dashboard
+## Tableau Dashboard
+Sales & Revenue Dashboard includes:
+- Monthly revenue trends
+- Product-wise and region-wise revenue
+- Sales channel comparison
 
 <img src="../assets/Sales and revenue dashboard.png" alt="Sales and Revenue Dashboard" width="900"/>
 
 ## Key Insights
-- Few customers bring most revenue
-- Premium & Enterprise customers are more valuable
-- Repeat customers generate more money
-- Good support = more repeat purchases
-- Some cities retain customers better
+- A small group of customers contributes most of the revenue
+- Premium and enterprise customers generate higher value
+- Repeat customers drive higher revenue
+- Some regions perform better in customer retention
 
 ## Business Recommendations
 - Focus marketing on high-performing products
-- Loyalty programs
-- Better customer support
-- Targeted campaigns
+- Introduce loyalty programs for repeat customers
+- Improve customer support to increase retention
+- Run targeted campaigns for underperforming regions
+
+## Project Structure
 
 

@@ -45,6 +45,5 @@ Sales & Revenue Dashboard includes:
 - Improve customer support to increase retention
 - Run targeted campaigns for underperforming regions
 
-## Project Structure
 
 

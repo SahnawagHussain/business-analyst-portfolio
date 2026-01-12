@@ -1,5 +1,5 @@
 # CRM Customer Retention Analysis  
-**Business Analyst Case Study – Sahil Hussain**
+**Business Analyst Case Study – Sahnawag Hussain**
 
 ---
 

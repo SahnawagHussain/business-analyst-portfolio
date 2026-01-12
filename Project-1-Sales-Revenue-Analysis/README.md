@@ -1,5 +1,6 @@
 # Sales & Revenue Analysis
-**Business Analyst Case Study – Sahil Hussain**
+  **Business Analyst Case Study – Sahil Hussain**
+
 ---
 
 ## Objective

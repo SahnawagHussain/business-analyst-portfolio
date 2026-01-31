@@ -73,47 +73,6 @@ h3 {
 }
 
 .hero-text {
-    flex: 1;
-}
-
-/* ---------- Hero Image ---------- */
-.hero-image {
-    flex-shrink: 0;
-}
-
-.hero-image img {
-    width: 220px;
-    height: 220px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 5px solid rgba(31,111,235,0.6);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.5);
-    background: #fff;
-}
-
-@media (max-width: 768px) {
-    .hero-flex {
-        flex-direction: column-reverse;
-        text-align: center;
-    }
-
-    .hero-image img {
-        width: 180px;
-        height: 180px;
-        margin-bottom: 1rem;
-    }
-}
-
-/* ---------- Hero Buttons ---------- */
-.hero-buttons {
-    margin-top: 1.2rem;
-}
-
-.hero-btn {
-    display: inline-block;
-    background: #1f6feb;
-    color: #ffffff;
-    padding: 0.65rem 1.6rem;
     border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
@@ -162,6 +121,7 @@ h3 {
 }
 
 /* Skill Colors */
+.genai     { width:70%; background:#00e5ff; }       /* NEW: Cyan for AI */
 .sql       { width:75%; background:#4caf50; }
 .excel     { width:85%; background:#2196f3; }
 .tableau   { width:80%; background:#ff9800; }

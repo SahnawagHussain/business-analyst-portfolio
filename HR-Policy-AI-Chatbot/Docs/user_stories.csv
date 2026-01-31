@@ -1,1 +1,6 @@
-
+ID,Role,Requirement,Acceptance Criteria
+US-01,Employee,Check remaining leave balance,Fetch balance via ID; Display clearly
+US-02,Employee,Understand reimbursement process,List required docs (bills); Link to form
+US-03,HR Manager,Upload updated policy documents,Searchable within minutes; Old policies marked inactive
+US-04,Business Analyst,Visibility into unanswered queries,Store in DB; Generate weekly report
+US-05,IT Admin,Role-based access to logs,Mask sensitive data; Admin-only access

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="hero hero-flex">
   <div class="hero-text">
     <h1>Turning Data into Business Decisions</h1>
@@ -10,7 +14,7 @@
     </p>
 
     <div class="hero-buttons">
-      <a href="https://github.com/sahnawaghussain" class="hero-btn">View GitHub</a>
+      <a href="https://github.com/SahnawagHussain" class="hero-btn">View GitHub</a>
       <a href="https://www.linkedin.com/in/sahnawag" class="hero-btn">Connect on LinkedIn</a>
     </div>
   </div>
@@ -28,30 +32,37 @@
     <div class="skill-name">GenAI & RAG Architecture</div>
     <div class="skill-bar"><div class="skill-level genai">70%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">SQL</div>
     <div class="skill-bar"><div class="skill-level sql">75%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">Excel</div>
     <div class="skill-bar"><div class="skill-level excel">85%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">Tableau</div>
     <div class="skill-bar"><div class="skill-level tableau">80%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">Python</div>
     <div class="skill-bar"><div class="skill-level python">65%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">CRM Exposure: Salesforce, Monday.com</div>
     <div class="skill-bar"><div class="skill-level crm">80%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">Jira Project Management</div>
     <div class="skill-bar"><div class="skill-level jira">80%</div></div>
   </div>
+  
   <div class="skill">
     <div class="skill-name">Salesforce Administrator</div>
     <div class="skill-bar"><div class="skill-level salesforce">75%</div></div>
@@ -110,5 +121,5 @@ Issued by Google via Coursera
 <div class="card">
 Email: <a href="mailto:sahil786hussain127@gmail.com">sahil786hussain127@gmail.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/sahnawag" target="_blank">linkedin.com/in/sahnawag</a><br>
-GitHub: <a href="https://github.com/sahnawaghussain" target="_blank">github.com/sahnawaghussain</a>
+GitHub: <a href="https://github.com/SahnawagHussain" target="_blank">github.com/SahnawagHussain</a>
 </div>

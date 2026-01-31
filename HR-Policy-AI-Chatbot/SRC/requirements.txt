@@ -1,3 +1,10 @@
 openai
 langchain
+langchain-community
+chromadb
+tiktoken
+pypdf
 streamlit
+python-dotenv
+pandas
+sqlalchemy

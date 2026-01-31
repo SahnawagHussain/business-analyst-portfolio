@@ -1,0 +1,6 @@
+EmployeeID,Name,Designation,CL_Balance,SL_Balance,PL_Balance
+EMP001,Amit Sharma,Software Engineer,5,8,12
+EMP002,Priya Singh,HR Manager,10,2,20
+EMP003,Rahul Verma,Business Analyst,2,5,5
+EMP004,Sahnawag Hussain,Project Lead,12,10,18
+EMP005,Neha Gupta,Intern,6,5,0

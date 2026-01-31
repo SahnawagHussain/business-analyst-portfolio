@@ -4,9 +4,9 @@
     <h2>Business Analyst & Project Manager</h2>
 
     <p>
-      👋 Hi, I’m <strong>Sahnawag Hussain</strong> — a Business Analyst & Project Manager with experience in <strong>sales performance, CRM retention, HR analytics, Jira, and Salesforce</strong>. I turn data into actionable business decisions.
+      👋 Hi, I’m <strong>Sahnawag Hussain</strong> — a Business Analyst & Project Manager specializing in <strong>AI Process Automation, CRM Analytics, and Data-Driven Strategy</strong>.
       <br><br>
-      Google Data Analytics Certified with hands-on experience in <strong>sales performance analysis</strong>, <strong>CRM customer retention</strong>, and <strong>HR process optimization</strong>.
+      Google Data Analytics Certified with hands-on experience in <strong>RAG Architecture</strong>, <strong>Salesforce Administration</strong>, and turning complex datasets into actionable business growth.
     </p>
 
     <div class="hero-buttons">
@@ -24,6 +24,10 @@
 
 ## 💼 Skills
 <div class="card">
+  <div class="skill">
+    <div class="skill-name">GenAI & RAG Architecture</div>
+    <div class="skill-bar"><div class="skill-level genai">70%</div></div>
+  </div>
   <div class="skill">
     <div class="skill-name">SQL</div>
     <div class="skill-bar"><div class="skill-level sql">75%</div></div>
@@ -59,7 +63,13 @@
 ## 📂 Projects
 <div class="projects-container">
 
-  <!-- Project 1 -->
+  <div class="project-card">
+    <img src="assets/ai-chatbot-thumb.png" class="project-thumb" alt="HR Policy AI Chatbot">
+    <h3>HR Policy AI Chatbot (RAG)</h3>
+    <p>Designed a RAG-based AI agent to automate 70% of HR queries. Features "Fail-Safe" Salesforce escalation and Tableau analytics.</p>
+    <a href="https://github.com/SahnawagHussain/HR-Policy-AI-Chatbot" class="project-btn">View on GitHub</a>
+  </div>
+
   <div class="project-card">
     <img src="assets/Project-1-thumbnail.png" class="project-thumb" alt="Sales & Revenue Analysis">
     <h3>Sales & Revenue Analysis</h3>
@@ -67,7 +77,6 @@
     <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-1-Sales-Revenue-Analysis" class="project-btn">View on GitHub</a>
   </div>
 
-  <!-- Project 2 -->
   <div class="project-card">
     <img src="assets/Project-2-thumbnail.png" class="project-thumb" alt="CRM Customer Retention Analysis">
     <h3>CRM Customer Retention Analysis</h3>
@@ -75,7 +84,6 @@
     <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/Project-2-CRM-Customer-Retention" class="project-btn">View on GitHub</a>
   </div>
 
-  <!-- Project 3 -->
   <div class="project-card">
     <img src="assets/Project-3-thumbnail.png" class="project-thumb" alt="HRMS Attendance & Payroll Case Study">
     <h3>HRMS Attendance & Payroll Case Study</h3>

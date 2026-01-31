@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <div class="hero hero-flex">
   <div class="hero-text">

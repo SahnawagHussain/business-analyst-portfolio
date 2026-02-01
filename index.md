@@ -75,7 +75,7 @@
     <img src="assets/ai-chatbot-thumb.png" class="project-thumb" alt="HR Policy AI Chatbot">
     <h3>HR Policy AI Chatbot (RAG)</h3>
     <p>Designed a RAG-based AI agent to automate 70% of HR queries. Features "Fail-Safe" Salesforce escalation and Tableau analytics.</p>
-    <a href="https://github.com/SahnawagHussain/HR-Policy-AI-Chatbot" class="project-btn">View on GitHub</a>
+    <a href="https://github.com/SahnawagHussain/business-analyst-portfolio/tree/main/HR-Policy-AI-Chatbot" class="project-btn">View on GitHub</a>
   </div>
 
   <div class="project-card">

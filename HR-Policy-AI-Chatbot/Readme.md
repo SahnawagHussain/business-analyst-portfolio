@@ -40,13 +40,13 @@ The solution acts as a bridge between company data and the AI engine using a **R
 * **Workflow:** Employee emails HR -> Email sits in queue (24-48 hrs) -> HR manually searches folders -> HR types reply.
 * **Pain Point:** High wait times and manual effort.
 
-![As-Is Diagram](docs/images/as-is-process.png)
+![As-Is Diagram](docs/images/AS-IS-process.png)
 
 ### To-Be Process (Automated)
 * **Workflow:** Employee chats with AI -> AI scans PDFs -> Instant Answer + Link provided.
 * **Fail-Safe:** If answer is unknown -> Auto-trigger Salesforce Case.
 
-![To-Be Diagram](docs/images/to-be-process.png)
+![To-Be Diagram](docs/images/TO-BE-process.png)
 
 ---
 
